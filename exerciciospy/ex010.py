@@ -1,0 +1,5 @@
+print(25*'=')
+print(f'{'Converta BRL para USD':^25}')
+print(25*'=')
+brl1 = float(input(f'{'Valor em BRL: '}'))
+print(f'${brl1:.2f} BRL = ${brl1/5.65:.2f} USD')
