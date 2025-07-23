@@ -34,4 +34,3 @@ for p in Pessoas[0]:
 print(f'\nO peso mais leve foi {Pessoas[1][0][1]}, e as pessoas que correspondem a esse peso são: ', end=' ')
 for p in Pessoas[1]:
     print(p[0], end=' ')
-
